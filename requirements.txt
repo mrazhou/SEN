@@ -1,0 +1,10 @@
+h5py==3.8.0
+imageio==2.26.0
+numpy==1.21.6
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+opencv_torchvision_transforms_yuzhiyang==0.0.1
+termcolor==2.4.0
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.64.1
