@@ -2,7 +2,7 @@
 
 Author: Qing Zhou, Junyu Gao, Yuan Yuan, Qi Wang☨
 
-> This repository is the official implementation of SEN and also support RSICCformer, MCCFormer.
+> This repository is the official implementation of [SEN](https://ieeexplore.ieee.org/document/10530145) and also support RSICCformer, MCCFormer.
 
 ![overview](./images/overview.png)
 
