@@ -60,7 +60,7 @@ To train the MCCFormer-S/D model, run this command:
 ```python
 CUDA_VISIBLE_DEVICES=0 python train.py \
   --more_reproducibility \
-  --savepath model_checkpoints/MCCFormer-S --model MCCFormer-S \
+  --savepath model_checkpoints/MCCFormer-S --model RSICCformer \
   --batch_size 128 --encoder_image resnet101 \
   --encoder_feat MCCFormers-S --decoder trans \
   --n_layer 2 --n_heads 4 --decoder_n_layers 2
